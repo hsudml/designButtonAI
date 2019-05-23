@@ -83,10 +83,12 @@ Take some time to sketch out on a piece of paper what your basic idea for your c
 
 ## Step 2: Create your card
 Run the Adobe Illustrator Program, then Begin with a new document that is the size of a business card: 
+
+![Screenshot showing menu option for File, then New](images/createDocument.png)
+
 + Document size: 3.5” x 2”
 + Bleed: .0125”
 + Image Resolution: 300 dpi
-![Screenshot showing menu option for File, then New](images/createDocument.png)
 
 Once you have your new document, start adding content using the tools in the left-hand menu. The Type tool allows you to add text to a document. Once you've added text, you will see the text options at the top of the screen. You can select different font types, sizes and more. The shape tool allows you to add various shapes (right-click or long-click to see shape options other than rectangles).
 
