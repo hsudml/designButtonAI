@@ -1,44 +1,73 @@
-![Title banner](images/simpleStepsBanner.png)
+![Title banner](images/businessCardHeader.png)
 
-# Simple Steps for Better College Writing
-Paraphrases and Quotations
+# Create Your Own Business Card Using Adobe Illustrator
 
 ## Digital Media Lab Quick Guide
 This short guide will get you started with your project. For more information about this or other topics, visit [http://libguides.humboldt.edu/dml](http://libguides.humboldt.edu/dml).
 
 
 ## Description
-This guide will give you a tips and best practices for paraphrasing and quoting in academic papers. 
 
-When do you do it? 
-+ “Paraphrase (with proper citations) when all you need is the information itself” (Davis, 2007, p. 16).
-+ “Quote when your source is important, when you can gain authority by turning to another author” (Davis, 2007, p. 17).
+In this Skillshop we will dive into basic Adobe Illustrator TOOLS AND Design Principles, in order to create our very own Business Card that is ready for print.  
 
-The amount that you paraphrase/quote may partially be dictated by your discourse. Different genres value different approaches!
+Leave this skillshop better prepared to design a project using Adobe Illustrator, a creative program available to you on select computers on campus, including the Digital Media Lab (LIB 120), the 3rd Floor Computer Lab (LIB 308H) and the checkout laptops. 
 
+*Please keep in mind that the Digital Media Lab has both Mac & PCs, while the 3rd Floor Computer Lab and laptops are PCs only.
 
-## Paraphrasing
-Remember to cite when using someone else’s ideas!
-+ Take notes while you read and paraphrase from your notes
-+ Thoroughly understand the passage 
-+ Look away from source and write in your own words
+## Step 1: Design your card
 
-### Try Paraphrasing this Text
+Decide who is Your Audience and what is your purpose for this Business Card.
 
->“Their virtual success is rooted in their real biology. Cats are solitary, asocial hypercarnivores built to do one thing: get meat. The famous cat meme I Can Haz Cheeseburger, in which a gaping gray cat demands a quarter-pounder, had the right idea. Every fiber of the feline being is evolved to hunt, and cats employ a distinctive stalk-and-ambush approach, in which they sit very still and watch for prey to innocently wander by, then explode from the underbrush to slaughter it.
-This stalking and pouncing is perfect for a six-second Vine or a pithy tweet. Think of your favorite YouTube cat videos: A cat springs into a box, or bops a baby on the head without warning, or rockets out from beneath the bed. What you’re watching is an ambush.”
+Cards can be horizontal (landscape) or vertical (portrait). Which will you choose?
 
-Tucker, A. (2016, October 15). _How cats evolved to win the Internet_. The New York Times. Retrieved from https://www.nytimes.com/2016/10/16/opinion/sunday/how-cats-
-evolved-to-win-the-internet.html
+### Some Basic Design Principles
++ [Balance/Composition](https://www.sophia.org/tutorials/design-in-art-balance-and-contrast) -- the visual weight of components in your design. Are they symmetrical? Centered? Are there strong color contrasts? This card uses a photograph of a winding road that passes through the text, using the dark area in the upper left-hand corner for the person's name. 
+![Photography business card of highway traffic at night winding through the middle, Canva](images/photoCard.png)
++ [Emphasis](https://www.sophia.org/tutorials/design-in-art-emphasis-variety-and-unity) -- What will you emphasize and what will you subdue? Will you use color? Size? Will it be the placement of text or shapes? This card for a company named Beyond the Box uses a large box shape on the left-hand side of the card to draw attention to this aspect of their name. 
+![Beyond the Box business card using a dark background and simple drawing of a box, Canva](images/beyondTheBox.png)
++ [Scale](https://www.sophia.org/tutorials/design-in-art-scale-and-proportion) -- The size of objects relative to each other and to the size of the card. This card for a piano school looks like a mini piano keyboard and has a very simple but strong branding that this is piano-focused -- it takes up almost the whole card!
+![Piano school card with black and white piano keyboard taking up the bottom two thirds of the card, Canva](images/pianoCard.png)
++ [Color](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/) -- Color theory can be quite complex, but keep in mind how people will view your color choices. Reds and oranges are warmer colors that impart a sense of passion or anger, blues and greens are cooler and calmer. But colors also have cultural connections that you should keep in mind. For example, red is a lucky color in some Asian communities but is strongly associated with sex in some European communities. This card uses yellow and black, two strongly contrasting colors, for an electrician. Yellow is often associated with electricity because we think of lightbulb light as being yellow. 
+![Electrician card with black background and bright yellow light bulbs, Canva](images/electricCard.png)
 
-### Things to Keep in Mind
-+ Stay true to the author’s point or intention
-+ Incorporate the paraphrase into your broader point
-+ Don’t copy an author’s word choice, sentence structure, or unique phrases
+### Consider your font, graphics, and composition
 
-### Example Paraphrase
+Free Source Websites to check out: 
+Check out various Fonts that are on the Web to Better communicate what your Business Cards emulates.
++ [Dafont.com](https://www.dafont.com/)
++ [Fonts.google.com](https://fonts.google.com/) Google Fonts also gives you some tips on font pairings. You can use a bolder or decorative font for the titles and then simpler clear font for the details.
 
->One author interested in cat videos is Abigail Tucker. Having researched cats and social media for years, Tucker (2016) argues that the rise in popularity of cat videos is centered around their hunting instinct. She points out that the seriousness with which cats approach their prey makes them susceptible to humorous juxtapositions (Tucker, 2016).  
+_Helpful tip on how to download Font for Macs_
++ Once you decide on a font, click download.
++ Then double click the downloaded file in your Finder  > under Downloads
++ Then you will double click the .TTF file and it will download to your fontbook automatically. You may need to restart Illustrator to see your font.
+
+Vector Illustrations are often Created for Illustrator files, Similar to Clip Art but allow for infinite resizing without loss in quality.
+
++ [Vecteezy.com](https://www.vecteezy.com/)
++ [Pexels.com](https://www.pexels.com/)
++ [Pixabay.com](https://pixabay.com/)
+
+How do you want to compose your design, how much of your canvas do you want to utilize? Maybe a photo image can accompany your information. Maybe a simple line drawing will help accentuate an idea. Search for an image or two and download it to your computer.
+
+Take some time to sketch out on a piece of paper what your basic idea for your card is. Try to think about how you will use one or more of the principles above. 
+
+![Horizontal and vertical card templates](images/cardTemplates.png)
+
+## Step 2: Create your card
+Run the Adobe Illustrator Program, then Begin with a new document that is the size of a business card: 
++ Document size: 3.5” x 2”
++ Bleed: .0125”
++ Image Resolution: 300 dpi
+![Screenshot showing menu option for File, then New](images/createDocument.png)
+
+Once you have your new document, start adding content using the tools in the left-hand menu. The Type tool allows you to add text to a document. Once you've added text, you will see the text options at the top of the screen. You can select different font types, sizes and more. The shape tool allows you to add various shapes (right-click or long-click to see shape options other than rectangles).
+
+Add the image you downloaded to your card:
++ Go to File > Place > and locate your image in the Downloads folder (or where you chose to save the image you downloaded). 
+
+## Step 4: Export & ready for Print!
+
 
 
 ## Quoting
