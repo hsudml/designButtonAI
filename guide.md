@@ -81,42 +81,8 @@ Save your working file (.AI), then go to File > Click SAVE AS…  Type in your P
 
 ![Screenshot of the file menu with location of Save As option](images/saving.png)
 
-## Quoting
-+ Tell your readers from whom and/or what you’re quoting
-+ Use a signal phrase or a reporting verb
-    + “Tucker argues…”
-+ Explain the quote to your readers
-+ Avoid drop quoting
-    + Introduce your readers to the source.
-+ Try making a quote sandwich:
-
-![Infographic of a quote sandwich with the top as the introduction, the filling as the quote and the bottom as the explanation](images/quoteSandwich.png)
-
-### Example: 
->Having researched cats and social media for years, Tucker (2016) argues that a cat’s “stalking and pouncing is perfect for a six-second Vine or a pithy tweet” (Tucker, 2016).  Because of the seriousness with which cats approach their prey, they are susceptible to humorous juxtapositions.
-
-
-## Additional Resources 
-Research Help Desk: [located on the first floor of the library](http://library.humboldt.edu/about/librarymap.html?y=70&x=145&f=1).
-
-[Purdue’s Online Writing Lab](https://owl.english.purdue.edu/owl/)
-
-Davis, J. P. (2007). [The Rowman and Littlefield guide to writing with sources](https://humboldt-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CALS_ALMA71401610150002901&context=L&vid=01CALS_HUL&search_scope=01CALS&isFrbr=true&tab=books_csu&lang=en_US). Lanham, MD: Rowman and Littlefield Publishers, Inc.
-
-Graff, G., Birkenstein, C., & Durst, R. (2015). [They say, I say: The moves that matter in academic writing](https://humboldt-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CALS_ALMA71390912200002901&context=L&vid=01CALS_HUL&search_scope=01CALS&tab=books_csu&lang=en_US). New York, NY: W.W. Norton & Company.
-
-The [HSU Writing Studio](http://learning.humboldt.edu/writing-studio): [located on the first floor of the library](http://library.humboldt.edu/about/librarymap.html?y=3&x=132&f=1). Students can [make appointments online](http://learning.humboldt.edu/writing-studio) or in person at the Learning Center front desk. 
-
-Writing Studio hours for Spring 2018 are: 
-+ Mondays & Tuesdays 11:00 am-5:00 pm 
-+ Wednesday & Thursday 11:00 am-6:00 pm 
-+ Fridays 12:00 pm-4:00 pm 
-Drop-ins: 
-+ Sunday 7:00-9:00 pm 
-+ Wednesday & Thursday 6:00 pm-8:00 pm
-
 
 ---
 For more info visit: [http://libguides.humboldt.edu/dml](http://libguides.humboldt.edu/dml) or email dml@humboldt.edu
 
-This guide has an open [Creative Commons license](https://creativecommons.org/share-your-work/licensing-types-examples/). You can use, share, remix and repurpose this content as long as you attribute the author, Lydia Leonard-Rhodes [CC BY](https://creativecommons.org/licenses/by/4.0/), 2018. If you’re re-using this guide, we’d love to hear about your project- dml@humboldt.edu.
+This guide has an open [Creative Commons license](https://creativecommons.org/share-your-work/licensing-types-examples/). You can use, share, remix and repurpose this content as long as you attribute the author, Christina Cordova [CC BY](https://creativecommons.org/licenses/by/4.0/), 2019. If you’re re-using this guide, we’d love to hear about your project- dml@humboldt.edu.
