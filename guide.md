@@ -22,17 +22,35 @@ Cards can be horizontal (landscape) or vertical (portrait). Which will you choos
 
 ### Some Basic Design Principles
 
-#### [Balance/Composition](https://www.sophia.org/tutorials/design-in-art-balance-and-contrast) 
+#### Balance/Composition
 The visual weight of components in your design. Are they symmetrical? Centered? Are there strong color contrasts? This card uses a photograph of a winding road that passes through the text, using the dark area in the upper left-hand corner for the person's name. 
+
+Learn more: [Design in Art: Balance and Contrast](https://www.sophia.org/tutorials/design-in-art-balance-and-contrast) (SOPHIA Learning)
+
 ![Photography business card of highway traffic at night winding through the middle, Canva](images/photoCard.png)
-#### [Emphasis](https://www.sophia.org/tutorials/design-in-art-emphasis-variety-and-unity) 
-What will you emphasize and what will you subdue? Will you use color? Size? Will it be the placement of text or shapes? This card for a company named Beyond the Box uses a large box shape on the left-hand side of the card to draw attention to this aspect of their name. 
+
+#### Emphasis
+What will you emphasize and what will you subdue? Will you use color? Size? Will it be the placement of text or shapes? This card for a company named Beyond the Box uses a large box shape on the left-hand side of the card to draw attention to this aspect of their name.
+
+Learn more: [Design in Art: Emphasis, Variety and Unity](https://www.sophia.org/tutorials/design-in-art-emphasis-variety-and-unity) (SOPHIA Learning)
+
 ![Beyond the Box business card using a dark background and simple drawing of a box, Canva](images/beyondTheBox.png)
-#### [Scale](https://www.sophia.org/tutorials/design-in-art-scale-and-proportion) 
+
+#### Scale
 The size of objects relative to each other and to the size of the card. This card for a piano school looks like a mini piano keyboard and has a very simple but strong branding that this is piano-focused -- it takes up almost the whole card!
+
+Learn more: [Design in Art: Scale and Proportion](https://www.sophia.org/tutorials/design-in-art-scale-and-proportion) (SOPHIA Learning)
+
 ![Piano school card with black and white piano keyboard taking up the bottom two thirds of the card, Canva](images/pianoCard.png)
-#### [Color](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/) 
+
+#### Color
 Color theory can be quite complex, but keep in mind how people will view your color choices. Reds and oranges are warmer colors that impart a sense of passion or anger, blues and greens are cooler and calmer. But colors also have cultural connections that you should keep in mind. For example, red is a lucky color in some Asian communities but is strongly associated with sex in some European communities. This card uses yellow and black, two strongly contrasting colors, for an electrician. Yellow is often associated with electricity because we think of lightbulb light as being yellow. 
+
+Learn more: [Color Theory for Designers, Part 1: The Meaning of Color
+](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/) (Cameron Chapman, Smashing Magazine)
+
+[ColorSpace](https://mycolor.space/) color chooser/palette tool
+
 ![Electrician card with black background and bright yellow light bulbs, Canva](images/electricCard.png)
 
 ### Consider your font, graphics, and composition
