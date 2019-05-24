@@ -101,7 +101,8 @@ Learn more about setting up your document and using these tools from this video,
 
 <div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M5jOg2iDPeM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-## Step 4: Export & ready for Print!
+
+## Step 3: Export & ready for Print!
 
 Now that you have chosen your fonts and vector illustrations, you can finalize your design and then export your Adobe Illustrator file (.AI) into a Printable File (PDF).
 
