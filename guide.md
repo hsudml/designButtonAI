@@ -1,6 +1,7 @@
 ![Title banner](images/businessCardHeader.png)
 
 # Create Your Own Business Card Using Adobe Illustrator
+Learn more about the project and find additional links at the [project overview page](https://hsudml.github.io/businessCardAI/).
 
 ## Digital Media Lab Quick Guide
 This short guide will get you started with your project. For more information about this or other topics, visit [http://libguides.humboldt.edu/dml](http://libguides.humboldt.edu/dml).
@@ -112,6 +113,6 @@ Save your working file (.AI), then go to File > Click SAVE AS…  Type in your P
 
 
 ---
-For more info visit: [http://libguides.humboldt.edu/dml](http://libguides.humboldt.edu/dml) or email dml@humboldt.edu
+For more info visit: [http://libguides.humboldt.edu/dml](http://libguides.humboldt.edu/dml) or email skillshops@humboldt.edu
 
 This guide has an open [Creative Commons license](https://creativecommons.org/share-your-work/licensing-types-examples/). You can use, share, remix and repurpose this content as long as you attribute the author, Christina Cordova [CC BY](https://creativecommons.org/licenses/by/4.0/), 2019. If you’re re-using this guide, we’d love to hear about your project- dml@humboldt.edu.
