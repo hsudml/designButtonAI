@@ -8,12 +8,9 @@ Christina created the workshop as part of the Humboldt State University [SkillSh
 ## Tutorial & Guides
 
 Multiple versions of the same content:
-+ [Webpage](https://hsudml.github.io/businessCardAI/guide) (screen reader friendly).
-+ [Printable booklet (handout)](https://drive.google.com/file/d/1aRvbJN0Sjty9iRsUJ79_i_ptGHoI7QVy/view?usp=sharing) (PDF, not accessible).
-+ [Digital version of booklet](https://docs.google.com/presentation/d/e/2PACX-1vR0Jjn_3AjEQDwe6wf4DpOku1tj0oqZgb84ylv97y6-KtHCYZ7C0pMlvk9iG1X_zWfuMXmi2kEg-OAA/pub?start=false&loop=false&delayms=3000) (also not terribly accessible).
-
-## Presentation Slides
-You can view and remix the [Create Your Own Business Card presentation slides](https://docs.google.com/presentation/d/e/2PACX-1vRzOqHvt5M9B9GJxvJakGbt83EwHQedNRkOP85bZbf1QDusrqf-F3SMYQvmEuwlY95F9EIplGvzJRk7/pub?start=false&loop=false&delayms=3000) used for this workshop (CC BY Christina Cordova).
++ [Webpage](https://hsudml.github.io/designButtonAI/guide) (screen reader friendly).
++ [Printable booklet (handout)](https://drive.google.com/open?id=1DaxP-Qx-NVuXYSMRTDsEMnN-nVmDuJd_) (PDF, not accessible).
++ [Digital version of booklet](https://docs.google.com/presentation/d/e/2PACX-1vR_DFSsOHgte2F83Qte7tlYVBlm0uh-_KJRjOHpc7DdKwz7SQj0YRtPlEJQs9ndFAniXPWczQo194Jr/pub?start=false&loop=false&delayms=3000) (also not terribly accessible).
 
 ## Resources
 Christina's lesson uses material from:
