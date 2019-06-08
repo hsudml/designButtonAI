@@ -1,7 +1,7 @@
-![Title banner](images/businessCardHeader.png)
+![Adobe Illustrator Logo](images/buttonBanner.png)
 
-# Create Your Own Business Card Using Adobe Illustrator
-Learn more about the project and find additional links at the [project overview page](https://hsudml.github.io/businessCardAI/).
+# How to Design Using Adobe Illustrator to Create Buttons
+Learn more about the project and find additional links at the [project overview page](https://hsudml.github.io/designButtonAI/).
 
 ## Digital Media Lab Quick Guide
 This short guide will get you started with your project. For more information about this or other topics, visit [http://libguides.humboldt.edu/dml](http://libguides.humboldt.edu/dml).
@@ -9,94 +9,83 @@ This short guide will get you started with your project. For more information ab
 
 ## Description
 
-In this Skillshop we will dive into basic Adobe Illustrator TOOLS AND Design Principles, in order to create our very own Business Card that is ready for print.  
+Buttons are our goal in this skillshop but we will learn the necessary tools that designers use to create flyers, logos, and much more! We will learn the importance of typography and color theory while applying fonts and vector illustrations to design our very own buttons.
 
-Leave this skillshop better prepared to design a project using Adobe Illustrator, a creative program available to you on select computers on campus, including the Digital Media Lab (LIB 120), the 3rd Floor Computer Lab (LIB 308H) and the checkout laptops. 
+Leave this skillshop better prepared to design a project using Adobe Illustrator, a creative program available to you on select computers on campus, including the Digital Media Lab (LIB 120).
 
-*Please keep in mind that the Digital Media Lab has both Mac & PCs, while the 3rd Floor Computer Lab and laptops are PCs only.
 
-## Step 1: Design your card
+## Step 1: Create Document
 
-Decide who is Your Audience and what is your purpose for this Business Card.
+Begin with a new document that is the size of regular letter size paper (8.5” x 11”)
 
-Cards can be horizontal (landscape) or vertical (portrait). Which will you choose?
+![Screenshot of File menu with New option](images/createDocument.png)
 
-### Some Basic Design Principles
+## Step 2: Create Content
 
-#### Balance/Composition
-The visual weight of components in your design. Are they symmetrical? Centered? Are there strong color contrasts? This card uses a photograph of a winding road that passes through the text, using the dark area in the upper left-hand corner for the person's name. 
+First Decide what is the Purpose of this Button? Is it going to be for a club, a band, Your own Motto, A hobby, Quote, Book, an Author? 
 
-Learn more: [Design in Art: Balance and Contrast](https://www.sophia.org/tutorials/design-in-art-balance-and-contrast) (SOPHIA Learning)
+![Screenshot of Tools menu in Illustrator](images/tools.png)
 
-![Photography business card of highway traffic at night winding through the middle, Canva](images/photoCard.png)
-[Canva Templates](https://www.canva.com/templates/business-cards/MADLhdRc71E-street-photographic-business-card/)
+Frequently Used Tools include (click the links to learn more): 
++ [Select Tool](https://helpx.adobe.com/illustrator/using/selecting-objects.html#select_objects_with_the_selection_tool)
++ Direct Select Tool
+    + [Learn about the selection tools](https://helpx.adobe.com/illustrator/using/selecting-objects.html)
++ [Type Tool](https://helpx.adobe.com/illustrator/using/creating-text.html#creating_text)
++ [Rectangle Tool](https://helpx.adobe.com/illustrator/using/drawing-simple-lines-shapes.html#draw_rectangles_and_squares)
++ [Gradient Tool](https://helpx.adobe.com/illustrator/using/gradients.html#GradienttoolandGradientpanel)
 
-#### Emphasis
-What will you emphasize and what will you subdue? Will you use color? Size? Will it be the placement of text or shapes? This card for a company named Beyond the Box uses a large box shape on the left-hand side of the card to draw attention to this aspect of their name.
+If you double-click on click and hold on some tools you can find more options, such as: 
 
-Learn more: [Design in Art: Emphasis, Variety and Unity](https://www.sophia.org/tutorials/design-in-art-emphasis-variety-and-unity) (SOPHIA Learning)
++ The type tool contains the [Type on Path tool](https://helpx.adobe.com/illustrator/using/creating-type-path.html), which allows you to place text following a shape or curved line (like your round button!)
++ The rectangle tool contains other shapes, like the [Ellipse tool](https://helpx.adobe.com/illustrator/using/drawing-simple-lines-shapes.html#draw_ellipses), which you can use to create round shapes. 
 
-![Beyond the Box business card using a dark background and simple drawing of a box, Canva](images/beyondTheBox.png)
-[Canva Templates](https://www.canva.com/templates/business-cards/MADOPnDhEB4-gray-cube-web-designer-business-card/)
+### Color
 
-#### Scale
-The size of objects relative to each other and to the size of the card. This card for a piano school looks like a mini piano keyboard and has a very simple but strong branding that this is piano-focused -- it takes up almost the whole card!
+Deciding what is your content can help decide your font and color Scheme
+Warm or Cool mood, school colors, Holiday Theme?
 
-Learn more: [Design in Art: Scale and Proportion](https://www.sophia.org/tutorials/design-in-art-scale-and-proportion) (SOPHIA Learning)
+The Style Note blog has a nice page about using and choosing colors using the color wheel, [Styling 101: Color Combinations
+](http://thestylenote.com/2013/04/09/styling-101-color-combinations/). 
 
-![Piano school card with black and white piano keyboard taking up the bottom two thirds of the card, Canva](images/pianoCard.png)
-[Canva Templates](https://www.canva.com/templates/business-cards/MAC4UdUSQpw-cream-and-black-piano-vector-music-teacher-business-card/)
+![Color Wheel](images/color-wheel-580x580.jpg)
 
-#### Color
-Color theory can be quite complex, but keep in mind how people will view your color choices. Reds and oranges are warmer colors that impart a sense of passion or anger, blues and greens are cooler and calmer. But colors also have cultural connections that you should keep in mind. For example, red is a lucky color in some Asian communities but is strongly associated with sex in some European communities. This card uses yellow and black, two strongly contrasting colors, for an electrician. Yellow is often associated with electricity because we think of lightbulb light as being yellow. 
 
-Learn more: [Color Theory for Designers, Part 1: The Meaning of Color
-](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/) (Cameron Chapman, Smashing Magazine)
+## Step 3: Decide on A font & Download
 
-[ColorSpace](https://mycolor.space/) color chooser/palette tool
+Check out various Fonts that are on the Web to Better communicate what your button is about.
 
-![Electrician card with black background and bright yellow light bulbs, Canva](images/electricCard.png)
-[Canva Templates](https://www.canva.com/templates/business-cards/MAC6lv2z3Zc-black-and-yellow-bulb-icons-electrician-business-card/)
+Free Websites to check out: 
++ [DAFONT.com](https://www.dafont.com/)
++	[fonts.google.com](https://fonts.google.com/)
 
-### Consider your font, graphics, and composition
+### Next Download Font (Macs)
 
-Free Source Websites to check out: 
-Check out various Fonts that are on the Web to Better communicate what your Business Cards emulates.
-+ [Dafont.com](https://www.dafont.com/)
-+ [Fonts.google.com](https://fonts.google.com/) Google Fonts also gives you some tips on font pairings. You can use a bolder or decorative font for the titles and then simpler clear font for the details.
+Once you decide on a font, click download.
+Then double click the downloaded file in your Finder > under Downloads.
 
-_Helpful tip on how to download Font for Macs_
-+ Once you decide on a font, click download.
-+ Then double click the downloaded file in your Finder  > under Downloads
-+ Then you will double click the .TTF file and it will download to your fontbook automatically. You may need to restart Illustrator to see your font.
+Then you will double click the .TTF file and it will download to your fontbook.
+
+
+## Step 4: Check out Vector Illustrations
 
 Vector Illustrations are often Created for Illustrator files, Similar to Clip Art but allow for infinite resizing without loss in quality.
 
+Free Websites to check out: 
 + [Vecteezy.com](https://www.vecteezy.com/)
-+ [Pexels.com](https://www.pexels.com/)
 + [Pixabay.com](https://pixabay.com/)
 
-How do you want to compose your design, how much of your canvas do you want to utilize? Maybe a photo image can accompany your information. Maybe a simple line drawing will help accentuate an idea. Search for an image or two and download it to your computer.
+### Next Download Vector
 
-Take some time to sketch out on a piece of paper what your basic idea for your card is. Try to think about how you will use one or more of the principles above. 
+Once you decide on a Vector Illustration click download.
+Then double click the downloaded file in your Finder > under Downloads.
 
-![Horizontal and vertical card templates](images/cardTemplates.png)
+From Adobe Illustrator, you will place the image inside your Document.
 
-## Step 2: Create your card
-Run the Adobe Illustrator Program, then Begin with a new document that is the size of a business card: 
+Go to File > Place > and Find your Vector in Downloads.
 
-![Screenshot showing menu option for File, then New](images/createDocument.png)
+Now that you have chosen your fonts and vector illustrations, you can put your button together. Below is a template of how to organize your ideas on how to create the button. 
 
-+ Document size: 3.5” x 2”
-+ Bleed: .0125”
-+ Image Resolution: 300 dpi
 
-Once you have your new document, start adding content using the tools in the left-hand menu. The Type tool allows you to add text to a document. Once you've added text, you will see the text options at the top of the screen. You can select different font types, sizes and more. The shape tool allows you to add various shapes (right-click or long-click to see shape options other than rectangles).
-
-Add the image you downloaded to your card:
-+ Go to File > Place > and locate your image in the Downloads folder (or where you chose to save the image you downloaded). 
-
-Use the Select tool to move or resize your image. 
 
 Learn more about setting up your document and using these tools from this video, _Illustrator Basics in 3 Minutes_:
 
@@ -115,4 +104,4 @@ Save your working file (.AI), then go to File > Click SAVE AS…  Type in your P
 ---
 For more info visit: [http://libguides.humboldt.edu/dml](http://libguides.humboldt.edu/dml) or email skillshops@humboldt.edu
 
-This guide has an open [Creative Commons license](https://creativecommons.org/share-your-work/licensing-types-examples/). You can use, share, remix and repurpose this content as long as you attribute the author, Christina Cordova [CC BY](https://creativecommons.org/licenses/by/4.0/), 2019. If you’re re-using this guide, we’d love to hear about your project- dml@humboldt.edu.
+This guide has an open [Creative Commons license](https://creativecommons.org/share-your-work/licensing-types-examples/). You can use, share, remix and repurpose this content as long as you attribute the author, Christina Cordova [CC BY](https://creativecommons.org/licenses/by/4.0/), 2017. If you’re re-using this guide, we’d love to hear about your project- dml@humboldt.edu.
